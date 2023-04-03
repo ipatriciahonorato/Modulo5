@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://bc8tkl7b4w0l2"]
+
+[ext_resource type="Script" path="res://RoboticArm2D.gd" id="1_kwmi2"]
+[ext_resource type="Texture2D" path="res://dobot-magician-lite-removebg-preview.png" id="2_jrg1p"]
+[ext_resource type="Script" path="res://HTTPRequest.gd" id="2_l8reg"]
+
+[node name="RoboticArm2D" type="Node2D"]
+script = ExtResource("1_kwmi2")
+
+[node name="Base" type="Node2D" parent="."]
+
+[node name="BaseSprite" type="Sprite2D" parent="Base"]
+position = Vector2(290, 145)
+texture = ExtResource("2_jrg1p")
+
+[node name="HTTPRequest" type="HTTPRequest" parent="."]
+script = ExtResource("2_l8reg")
