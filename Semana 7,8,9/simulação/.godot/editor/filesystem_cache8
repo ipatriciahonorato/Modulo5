@@ -1,0 +1,11 @@
+2a60927148abd1d33b818b535e306557
+::res://::1680485852
+dobot-magician-lite-removebg-preview.png::CompressedTexture2D::5689404104162979126::1680485622::1680485856::1::::<><>::
+export_presets.cfg::TextFile::-1::1680484621::0::1::::<><>::
+HTTPRequest.gd::GDScript::-1::1680485704::0::1::::<>HTTPRequest<>::
+icon.svg::CompressedTexture2D::59597186536466985::1680050853::1680050890::1::::<><>::
+robot.apple-touch-icon.png::CompressedTexture2D::8907550948546766209::1680485094::1680485172::1::::<><>::
+robot.icon.png::CompressedTexture2D::7622017874081681574::1680485094::1680485172::1::::<><>::
+robot.png::CompressedTexture2D::5506591380841836779::1680485094::1680485172::1::::<><>::
+RoboticArm2D.gd::GDScript::-1::1680485704::0::1::::<>Node2D<>::
+robotic_arm_2d.tscn::PackedScene::7527628954988110717::1680485704::0::1::::<><>::uid://34s63tap67v<>res://RoboticArm2D.gd<>res://HTTPRequest.gd
